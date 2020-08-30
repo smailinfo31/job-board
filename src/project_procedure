@@ -6,7 +6,21 @@ create project
     mkdir src
     cd src
 
-uploade on GitHub
+uploade on GitHub:
+    source job-board/bin/activate
+    cd job-board/
+    echo "# job-board" >> README.md
+    git init
+    git add .
+    git commit -m "job-bord-project-v1"
+    git branch -M master
+    git remote add origin https://github.com/smailinfo31/job-board.git
+    git push -u origin master
+
+
+create django project
+
+
     
 
 

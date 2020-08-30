@@ -1,0 +1,51 @@
+create project
+    mkdir job-board
+    cd DJ-projects/
+    python3 -m venv job-board
+    cd job-board/
+    mkdir src
+    cd src
+
+uploade on GitHub
+    
+
+
+
+
+
+
+
+
+
+
+template :
+    Job:
+        -title
+        -location
+        -job type
+        -description
+        -published
+        -vacancy
+        -salary
+        -category
+        -experience
+    Blog:
+        -title
+        -description
+        -crated at
+        -category
+        -tags
+        author
+        
+        -search
+        -comment
+        -recent posts
+        
+        
+    Contact
+    
+    Home
+    
+    Help 
+        
+    
